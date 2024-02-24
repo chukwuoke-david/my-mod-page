@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(0, 0, 0);
+    background-image: url("Screenshot_20240211-215141.png");
+    background-repeat: no-repeat;
+    background-size: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: white;
+    margin-left: 600px;
+    margin-top: 60px;
+}
+.img {
+    height: 120px;
+    border-radius: 60px;
+    margin-left: 73px;
+}
+.searchbar {
+    margin-top: 7px;
+    width: 252px;
+    height: 19px;
+}
+.Submit {
+    background-color: greenyellow;
+    color: whitesmoke;
+    font-weight: 700;
+    margin-left: 93px;
+    margin-top: 10px;
+    height: 42px;
+    width: 94px;
+    border-width: 0px;
+    border-radius: 7px;
+}
+.Submit:hover {
+    background-color: rgb(124, 199, 12);
+}
+.Submit:active {
+    background-color: whitesmoke;
+    color: greenyellow;
+}
+p {
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    margin-left: 43px;
+}

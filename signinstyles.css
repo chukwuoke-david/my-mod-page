@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+    background-image: url("Screenshot_20240211-215212.png");
+    background-repeat: no-repeat;
+    background-size: 30%;
+    margin-top: 278px;
+    margin-left: 422px;
+}
+.info {
+    height: 30px;
+    margin-right: 10px;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    margin-left: 145px;
+}.Submit {
+    background-color: greenyellow;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    margin-left: 238px;
+    margin-top: 40px;
+    height: 42px;
+    width: 104px;
+    border-width: 0px;
+    border-radius: 7px;
+}
+.Submit:hover {
+    background-color: rgb(139, 224, 11);
+}
+.Submit:active {
+    background-color: rgb(0, 0, 0);
+    color: greenyellow;
+}

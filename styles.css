@@ -1,0 +1,88 @@
+body {
+    background-color: yellowgreen;
+    color: rgb(0, 0, 0);
+    font-family: Arial;
+    font-weight: 500;
+    margin-top: 100px;
+}
+.side-button {
+    background-color: rgb(255, 0, 0);
+    border-radius: 70px;
+    padding: 13px;
+    border-color: rgb(0, 0, 0);
+}
+.side-button:hover {
+    background-color: rgb(230, 61, 61);
+}
+.side-button:active {
+    background-color: rgb(228, 142, 142);
+}
+.GTASAMODS {
+    color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+}
+.container {
+    background-color: rgb(255, 255, 255);
+    padding: 14px;
+    display: grid;
+    width: 266px;
+    margin-left: 5px;
+    margin-bottom: 6px;
+    border-radius: 12px
+}
+.side-button {
+    margin-left: 4px;
+}
+.head {
+    font-weight: 700;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.text {
+    color: black;
+}
+.preview-image {
+    display: flex;
+}
+.previewpics {
+    height: 132px;
+    margin-top: 6px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-bottom: 4px;
+    width: 144px;
+}
+.section {
+    background-color: rgb(0, 0, 0);
+    width: fit-content;
+    display: inline-block;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    justify-content: space-between;
+}
+.getmoremods {
+    background-color: rgb(0, 153, 255);
+    color: white;
+    height: 34px;
+    width: 353px;
+    border-color: black;
+    border-radius: 17px;
+}
+.getmoremods:hover {
+    background-color: aqua;
+}
+.getmoremods:active {
+    background-color: aquamarine;
+}
+.lastline {
+    display: flex;
+    width: 1fr;
+    justify-content: space-between;
+}
+.movable {
+    background-color: black;
+    color: white;
+}
+.gtasalogo {
+    height: 155px;
+}
