@@ -1,0 +1,35 @@
+body {
+    background-image:url("bg.png");
+    padding-left: 85px;
+}
+h1 {
+    font-size: 3rem;
+}
+.article {
+    background-color: none;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    padding-left: 20px;
+    width: 450px;
+}
+.getmods {
+    background-color: rgb(123, 52, 204);
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    height: 40px;
+    width: 150px;
+    border-radius: 40px;
+}
+.getmods:hover {
+    background-color: rgb(152, 85, 228);
+    box-shadow: 10px 10px 10px black ;
+    font-style: normal;
+    height: 45px;
+    width: 155px;
+}
+.getmods:active {
+    background-color: rgb(175, 127, 230);
+}
